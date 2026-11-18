@@ -1,0 +1,20 @@
+export const standardtheme ={
+purple: '#9758a6',
+darkPurple: '#5c2669',
+secoundDarkPurple: '#6F357c',
+orange: '#ff8c05',
+mainBlack: '#1f1f1f',
+black: '#363636',
+secondBlack: '#484848',
+darkGray:'#625e5e',
+lightGray:'#cdcdcd',
+red: '#ff3205',
+darRed: '#cf3057',
+white: '#ffffff',
+secondWhite: '#f0f0f0',
+darkWhite: '#f4f4f4',
+green: '#61A120',
+roadRageFont: 'Road Rage , sans-serif',
+poppinsFont: 'Poppins , sans-serif',
+
+};
